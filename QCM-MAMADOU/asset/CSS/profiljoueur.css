@@ -1,0 +1,144 @@
+#container
+{
+   
+    width: 70%;
+    height: 80%;
+    position: absolute;
+    margin: 5% 5% 5% 15%;
+}
+#header
+{
+    background-color: grey;
+    position: relative;
+    width: 100%;
+    height: 8%;
+}
+#center
+{
+  /* background-image: url(asset/IMG/images/img-bg.jpg); */
+  
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 3px;
+}
+ 
+#bande
+{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    background-color: black;
+    text-align: center;
+   bottom: 447px;
+}
+h4{
+    position: relative;
+  color: white;
+  padding-top: -20px;
+  font-size: 19px;
+  
+  
+}
+#cadre
+{
+    background-color: blanchedalmond;
+    width: 80%;
+    height: 86%;
+    position: absolute;
+    margin-left: 10%;
+    bottom: 6px;
+    border-radius: 7px;
+}
+#footer
+{
+    background-color: grey;
+    position: absolute;
+    width: 100%;
+    height: 8%;
+    bottom: -94px;
+}
+    #header
+{
+    background-color: grey;
+    position: relative;
+    width: 100%;
+    height: 8%;
+    
+}
+h5
+{
+    font-size: 20px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    position: relative;
+}
+h6
+{
+    font-size: 15px;
+    margin-left: 20px;
+   
+    position: relative;
+    bottom: 20px;
+}
+.label
+{
+    font-size: 15px;
+    margin-left: 20px;
+   margin-bottom: 11px;
+    position: relative;
+    bottom: 30px; 
+}
+ .input
+{
+    font-size: 15px;
+    margin-left: 20px;
+   margin-bottom: 11px;
+    position: relative;
+    bottom: 30px; 
+} 
+#button2
+{
+    background-color: cornflowerblue;
+    font-size: 15px;
+    margin-left: 600px;
+   margin-bottom: 11px;
+    position: relative;
+    bottom: 165px; 
+}
+
+#button3
+{
+    background-color: cornflowerblue;
+    font-size: 15px;
+    margin-left: 460px;
+   margin-bottom: 11px;
+    position: relative;
+    bottom: 200px; 
+}
+#dernier
+{
+
+    font-size: 18px;
+    margin-left: 560px;
+   margin-bottom: 11px;
+    position: relative;
+    bottom: 70px;  
+    width: 15px;
+    text-align: center;
+    
+}
+#annule
+{
+    width: 10px;
+    height: 7px;
+    background-color: cornflowerblue;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 2px;
+    color: black;
+    font-weight: bold;
+}
+
+
+
