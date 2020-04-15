@@ -1,0 +1,16 @@
+[ 
+    {
+        "nom":"Mbaye",
+        "prenom":"fall",
+        "login":"mbayefall",
+        "mot de passe":"781532859",
+        "adresse":"joueur"
+     },
+     {
+        "nom":"Modou",
+        "prenom":"Diouf",
+        "login":"alioudiouf",
+        "mot de passe":"781532859",
+        "adresse":"admin"
+     }
+]
